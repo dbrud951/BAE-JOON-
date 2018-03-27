@@ -1,3 +1,4 @@
+# gitignore for JAVA
 # Compiled class file
 *.class
 
@@ -20,3 +21,27 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+#gitignore for C++
+#Compiled Object files
+*.slo
+*.ld
+*.o
+
+#Complied Dynamic libraries
+*.so
+*.dylib
+
+#Compiled Static libraries
+*.lai
+*.la
+*.a
+
+#Visual Studio Files
+Debug
+Release
+*.suo
+*.csproj.user
+*.vbproj.user
+ipch
+*sdf
